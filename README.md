@@ -1,4 +1,4 @@
-# RainingComputers Shnootalk
+# Homebrew Shnootalk
 
 ## How do I install these formulae?
 
