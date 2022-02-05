@@ -12,7 +12,7 @@ class Shtkc < Formula
     build_name = File.read("build-name.txt").strip
     bin.install "bin/#{build_name}/shtkc"
   end
-  
+
   test do
     system "shtkc", "-version"
   end
