@@ -1,8 +1,8 @@
 class Shtkc < Formula
   desc "ShnooTalk is a new programming language"
   homepage "https://github.com/RainingComputers/shnootalk"
-  url "https://github.com/RainingComputers/ShnooTalk/archive/refs/tags/0.1.1-alpha.tar.gz"
-  sha256 "54aee149273a4a728f7a4e618a623e5d9b733998f81389091d1f12b818b05c83"
+  url "https://github.com/RainingComputers/ShnooTalk/archive/refs/tags/0.2.0-alpha.tar.gz"
+  sha256 "a24e2491f0cfa0bdc75b1423a97a15599ba5b98d389dd3b8a3b1c00e23e4efab"
   license "MIT"
 
   depends_on "llvm@12"
